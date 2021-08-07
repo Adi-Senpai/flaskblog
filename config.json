@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/produri",
+        "fb_url":"facebook.com/blog",
+        "no_of_posts":5,
+        "blog_name": "Aditya's Blog",
+        "username": "aditya@adi",
+        "passwd": "aditya",
+        "upload_location":"D:\\flask apps\\proj-1>"
+
+    }
+}
